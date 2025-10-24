@@ -10,7 +10,7 @@ To install easyjson, you will need to have nlohmann/json installed because this 
 
 ## How to Use
 
-In addition to the features already in nlohmann/json, there are two functions (with more coming soon):
+In addition to the features already in nlohmann/json, there are two functions:
 
 ### `save()`
 
